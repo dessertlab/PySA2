@@ -9,7 +9,7 @@ _TBD: PAPER CURRENTLY ACCEPTED TO ISSRE2019_
 
 PySA2 works with python 2.7, for both interpreter and target code.
 
-Install requirements through:
+Install the requirements through:
 ```shell
 pip install -r requirements.txt
 ```

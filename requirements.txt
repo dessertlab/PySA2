@@ -1,5 +1,5 @@
 astunparse==1.6.2
-certifi==2019.6.16
+certifi==2022.12.7
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 six==1.12.0
